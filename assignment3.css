@@ -1,1 +1,6 @@
-/*styles for assignment 3*/
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: ‘Lucida Console’, Monaco, monospace;
+}
